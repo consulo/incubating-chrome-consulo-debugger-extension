@@ -1,0 +1,1 @@
+Base code from https://github.com/apache/netbeans/tree/master/webcommon/extbrowser.chrome/plugins/chrome
