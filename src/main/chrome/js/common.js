@@ -22,7 +22,7 @@ NetBeans = new Object();
 NetBeans.serverURL = function() {
     var serverProtocol = 'ws';
     var serverHost = '127.0.0.1';
-    var serverPort = 8008;
+    var serverPort = 62242;
     var serverFile = '/';
     return serverProtocol+'://'+serverHost+':'+serverPort+serverFile;
 };
@@ -31,7 +31,7 @@ NetBeans.DEBUG = true;
 NetBeans.INFOBAR = false;
 
 // Version that the extension reports to the IDE in 'init' message
-NetBeans.VERSION = "1.8.1";
+NetBeans.VERSION = "1.0";
 // The last version that the IDE reported to the extension
 NetBeans.ideVersion = null;
 
